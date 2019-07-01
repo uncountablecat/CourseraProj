@@ -28,12 +28,6 @@ used?
 * Is the build of this package passing on [Travis badge](https://travis-ci.org/EnriquePH/FARS)?
 * Are the build logs for this package on [Travis badge](https://travis-ci.org/EnriquePH/FARS) free of any errors, warnings, or notes?
 
-## Notes:
-
-* Package has passed also
-[AppVeyor](https://ci.appveyor.com/project/EnriquePH/FARS) tests
-* Please, follow the links on Review Criteria.
-
 ## Links:
 * [Writing an R package from scratch](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
 * [Github: roxygen2](https://github.com/klutometis/roxygen#roxygen2)
