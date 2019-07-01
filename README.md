@@ -1,6 +1,10 @@
 # Coursera Project 4
 Peer-graded Assignment
 
+<!-- badges: start -->
+[![Travis build status](https://travis-ci.org/uncountablecat/CourseraProj.svg?branch=master)](https://travis-ci.org/uncountablecat/CourseraProj)
+<!-- badges: end -->
+
 ## Data Source
 
 The functions will be using data from the US National Highway Traffic Safety
